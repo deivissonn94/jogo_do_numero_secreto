@@ -4,7 +4,7 @@ titulo.innerHTML = "Bem vindo ao jogo do adivinha ";
 */
 
 let lista = [];
-let limiteDenumeros = 10;
+let limiteDenumeros = 50;
 let tentativas =1;
 let numeroAleatorio =geraNumeroAleatorio();
 
